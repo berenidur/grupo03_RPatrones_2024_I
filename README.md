@@ -6,7 +6,7 @@ Como estudiantes de ingeniería biomédica, nuestro objetivo es aprender técnic
 
 ## Presentación del equipo
 
-| <img src="images/rhuacasi.jpg" width="200" height="200"> | <img src="images/lsandoval.jpg" width="200" height="200"> | <img src="images/dzavaleta.jpg" width="200" height="200"> |
+| <img src="Images/rhuacasi.jpg" width="200" height="200"> | <img src="Images/lsandoval.jpg" width="200" height="200"> | <img src="Images/dzavaleta.jpg" width="200" height="200"> |
 | :---: | :---: | :---:
 |Rodolfo Huacasi Turpo<br>([berenidur](https://github.com/berenidur))| Leonardo Sebastián Sandoval Carranza<br>([Leo2209](https://github.com/Leo2209)) | Daniel Zavaleta Guzmán<br>([dzavaleta03](https://github.com/dzavaleta03)) |
 | <p align="justify">Estudiante de  noveno ciclo de la carrera de ingeniería biomédica con interés en el área de señales e imágenes médicas.</p> | <p align="justify">Estudiante del noveno ciclo de Ingeniería Biomédica. Interesado principalmente en el área de Señales e imágenes biomédicas e Ingenieria Clinica.</p> | <p align="justify">Estudiante de último año de Ingeniería Biomedica con interés en la Ingeniería Clínica y el análisis de datos en salud.</p> |
